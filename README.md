@@ -106,6 +106,7 @@ Frontend: Next.js (Incident Dashboard)
 Database: Pinecone (Vectorized Safety Protocols)
 
 Roadmap
+
 [ ] Temporal Analysis: Tracking structural decay across multiple video sessions.
 
 [ ] Live Stream Integration: Direct processing of RTSP drone feeds.
